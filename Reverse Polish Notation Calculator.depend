@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1713595133 source:c:\users\eric\desktop\quart carrera\4.programaci”\c\reverse polish notation calculator\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<ctype.h>
+	"Functions.h"
+
+1713595460 c:\users\eric\desktop\quart carrera\4.programaci”\c\reverse polish notation calculator\functions.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<ctype.h>
+
+1713595458 source:c:\users\eric\desktop\quart carrera\4.programaci”\c\reverse polish notation calculator\functions.c
+	"Functions.h"
+
